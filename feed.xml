@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>赵辉区块链博客</title>
-    <description>赵辉，１０年工作经验，智玩互动联合创始人，全球区块链资深专家，曾就职于华为科技等多家互联网企业就职。</description>
+    <description>赵辉，１０年工作经验，智玩互动联合创始人，全球区块链资深专家，曾在华为科技等多家互联网企业就职。</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Feb 2018 19:57:20 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2018 19:57:20 +0800</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2018 20:07:03 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 20:07:03 +0800</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
